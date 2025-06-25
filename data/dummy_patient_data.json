@@ -1,0 +1,327 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2025-06-11",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Hydrochlorothiazide 25mg",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "Alice Johnson",
+    "discharge_date": "2025-05-30",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Metoprolol 25mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Follow-up with primary care in 2 weeks",
+    "warning_signs": "High blood pressure, confusion",
+    "discharge_instructions": "Take medications with food"
+  },
+  {
+    "patient_name": "Michael Lee",
+    "discharge_date": "2025-06-08",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Atorvastatin 10mg",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "High fluid intake",
+    "follow_up": "Ultrasound appointment in 1 week",
+    "warning_signs": "High blood pressure, confusion",
+    "discharge_instructions": "Take medications with food"
+  },
+  {
+    "patient_name": "Maria Rodriguez",
+    "discharge_date": "2025-06-07",
+    "primary_diagnosis": "Kidney Stone",
+    "medications": [
+      "Metoprolol 25mg daily",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Lab tests in 3 days",
+    "warning_signs": "High blood pressure, confusion",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "David Kim",
+    "discharge_date": "2025-06-04",
+    "primary_diagnosis": "Kidney Stone",
+    "medications": [
+      "Hydrochlorothiazide 25mg",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Lab tests in 3 days",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Take medications with food"
+  },
+  {
+    "patient_name": "Emma Davis",
+    "discharge_date": "2025-06-12",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Lasix 40mg",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low potassium, low sodium",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "James Wilson",
+    "discharge_date": "2025-06-17",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Atorvastatin 10mg",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low potassium, low sodium",
+    "follow_up": "Follow-up with primary care in 2 weeks",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Olivia Brown",
+    "discharge_date": "2025-06-18",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Amlodipine 5mg",
+      "Lasix 40mg"
+    ],
+    "dietary_restrictions": "High fluid intake",
+    "follow_up": "Lab tests in 3 days",
+    "warning_signs": "High blood pressure, confusion",
+    "discharge_instructions": "Avoid strenuous activity"
+  },
+  {
+    "patient_name": "Daniel Martinez",
+    "discharge_date": "2025-06-09",
+    "primary_diagnosis": "Kidney Stone",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Atorvastatin 10mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Follow-up with primary care in 2 weeks",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "Sophia Anderson",
+    "discharge_date": "2025-06-06",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Atorvastatin 10mg",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Avoid strenuous activity"
+  },
+  {
+    "patient_name": "William Taylor",
+    "discharge_date": "2025-06-07",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Metoprolol 25mg daily",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Isabella Thomas",
+    "discharge_date": "2025-06-16",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Lasix 40mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Follow-up with primary care in 2 weeks",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Alexander Moore",
+    "discharge_date": "2025-06-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Lasix 40mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Lab tests in 3 days",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Take medications with food"
+  },
+  {
+    "patient_name": "Mia Jackson",
+    "discharge_date": "2025-06-18",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lasix 40mg",
+      "Lisinopril 10mg daily"
+    ],
+    "dietary_restrictions": "Protein-restricted diet",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Avoid strenuous activity"
+  },
+  {
+    "patient_name": "Ethan White",
+    "discharge_date": "2025-06-02",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Metoprolol 25mg daily",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "Low potassium, low sodium",
+    "follow_up": "Follow-up with primary care in 2 weeks",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Avoid strenuous activity"
+  },
+  {
+    "patient_name": "Charlotte Harris",
+    "discharge_date": "2025-05-31",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Lasix 40mg",
+      "Lisinopril 10mg daily"
+    ],
+    "dietary_restrictions": "Low potassium, low sodium",
+    "follow_up": "Ultrasound appointment in 1 week",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "Matthew Clark",
+    "discharge_date": "2025-06-11",
+    "primary_diagnosis": "Kidney Stone",
+    "medications": [
+      "Hydrochlorothiazide 25mg",
+      "Lasix 40mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Amelia Lewis",
+    "discharge_date": "2025-06-14",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Hydrochlorothiazide 25mg",
+      "Atorvastatin 10mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Henry Hall",
+    "discharge_date": "2025-06-19",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Atorvastatin 10mg",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Persistent nausea, vomiting",
+    "discharge_instructions": "Avoid strenuous activity"
+  },
+  {
+    "patient_name": "Harper Young",
+    "discharge_date": "2025-06-13",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Metoprolol 25mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Protein-restricted diet",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Joseph Allen",
+    "discharge_date": "2025-06-13",
+    "primary_diagnosis": "Kidney Stone",
+    "medications": [
+      "Hydrochlorothiazide 25mg",
+      "Lisinopril 10mg daily"
+    ],
+    "dietary_restrictions": "High fluid intake",
+    "follow_up": "Lab tests in 3 days",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Record fluid intake and output"
+  },
+  {
+    "patient_name": "Evelyn Scott",
+    "discharge_date": "2025-06-18",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Lasix 40mg",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Protein-restricted diet",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "High blood pressure, confusion",
+    "discharge_instructions": "Record fluid intake and output"
+  },
+  {
+    "patient_name": "Samuel Green",
+    "discharge_date": "2025-06-07",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Atorvastatin 10mg",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "Abigail Adams",
+    "discharge_date": "2025-06-01",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Amlodipine 5mg"
+    ],
+    "dietary_restrictions": "Low phosphorus, avoid dairy",
+    "follow_up": "Telehealth check-in in 5 days",
+    "warning_signs": "Fatigue, swelling, reduced urine output",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  },
+  {
+    "patient_name": "Benjamin Nelson",
+    "discharge_date": "2025-05-31",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Amlodipine 5mg",
+      "Hydrochlorothiazide 25mg"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Severe pain, blood in urine",
+    "discharge_instructions": "Stay hydrated, monitor urine output"
+  }
+]

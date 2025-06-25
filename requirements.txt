@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+chromadb
+sentence-transformers
+python-dotenv
+tqdm
+requests
+pypdf
